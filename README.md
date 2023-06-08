@@ -1,6 +1,15 @@
 # Teste de Hipóteses
 O teste A/B é um dos métodos mais utilizados para validar hipóteses de negócio sobre qual página web tem maior conversão, qual o melhor cupom de desconto, melhor preço promocional etc. Os cases abaixo apresentam o planejamento, execução e análise de teste A/B usando técnicas tradicionais de Estatística, e técnicas modernas de Multi-Armed Bandit (MAB).
 
+## Índice
+* [Teste A/B - Conversion Rate](#teste-ab---conversion-rate)
+
+* [Teste A/B - GMV (Gross Margin Revenue)](#teste-ab---gmv-gross-margin-revenue)
+
+* [Teste A/B/n - Conversion Rate](#teste-abn---conversion-rate)
+
+* [Teste A/B Bayesiano (Multi-Armed Bandit)](#teste-ab-bayesiano-multi-armed-bandit)
+
 # Teste A/B - Conversion Rate
 A Electronic House é um comercio online ( e-commerce ) de produtos de informática
 para casas e escritórios. Os clientes podem comprar mouses, monitores, teclados,
