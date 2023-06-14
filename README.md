@@ -1,6 +1,13 @@
 # Teste de Hipóteses
 O teste A/B é um dos métodos mais utilizados para validar hipóteses de negócio sobre qual página web tem maior conversão, qual o melhor cupom de desconto, melhor preço promocional etc. Os cases abaixo apresentam o planejamento, execução e análise de teste A/B usando técnicas tradicionais de Estatística, e técnicas modernas de Multi-Armed Bandit (MAB).
 
+<p align="center">
+    <img src="img/new_data_service.jpg" alt="" width="800" height="450">
+<p/>
+
+Foto de <a href="https://unsplash.com/@new_data_services?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NEW DATA SERVICES</a> na <a href="https://unsplash.com/pt-br/fotografias/0tSiofevpUs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash.</a>
+  
+
 ## Índice
 * [Teste A/B - Conversion Rate](#teste-ab---conversion-rate)
 
