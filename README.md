@@ -17,7 +17,7 @@ Foto de <a href="https://unsplash.com/@new_data_services?utm_source=unsplash&utm
 
 * [Teste A/B Bayesiano (Multi-Armed Bandit)](#teste-ab-bayesiano-multi-armed-bandit)
 
-# Teste A/B - Conversion Rate
+# Teste A/B - GMV (Gross Margin Revenue) 
 A Electronic House é um comercio online ( e-commerce ) de produtos de informática
 para casas e escritórios. Os clientes podem comprar mouses, monitores, teclados,
 computadores, laptops, cabos HDMI, fones de ouvido, cameras webcam, entre
@@ -61,7 +61,7 @@ formulário de dados do cartão de crédito?
 
 [Notebook com solução](teste_ab_gmv.ipynb)
 
-# Teste A/B - GMV (Gross Margin Revenue)
+# Teste A/B - Conversion Rate
 A Electronic House é um comercio online ( e-commerce ) de produtos de informática
 para casas e escritórios. Os clientes podem comprar mouses, monitores, teclados,
 computadores, laptops, cabos HDMI, fones de ouvido, cameras webcam, entre
